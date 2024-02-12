@@ -1,4 +1,4 @@
-# Authentic Frontend Technical (In-person)
+# Authentic Frontend Technical
 
 Create a React/TS app that fetches a random word from the [API](https://random-word-api.herokuapp.com/home) and displays it to the user.
 
