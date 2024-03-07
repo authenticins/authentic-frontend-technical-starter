@@ -3,13 +3,13 @@
 Create a React/TS app that fetches a random word from the [API](https://random-word-api.herokuapp.com/home) and displays it to the user.
 
 ##### Minimum requirements:
-- Write a single functional component *(1 point)*
-- Use React hooks (useState, useEffect) as necessary *(1 point)*
-- Declare types as necessary *(1 point)*
-- Set an initial word on mount *(1 point)*
-- Provide a button for the user to get new words *(1 point)*
+- Write a single functional component
+- Use React hooks (useState, useEffect) as necessary
+- Declare types as necessary
+- Set an initial word on mount
+- Provide a button for the user to get new words
 
-##### Bonus points:
-- Allow the user to specify word length *(1 point)*
-- Display a loading state as new words are fetched *(1 point)*
-- Style the app nicely using either CSS or CSS-in-JS *(1-2 points based on design)*
+##### Extras:
+- Allow the user to specify word length
+- Display a loading state as new words are fetched
+- Style the app nicely using either CSS or CSS-in-JS
