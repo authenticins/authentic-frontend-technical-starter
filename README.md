@@ -12,4 +12,4 @@ Create a React/TS app that fetches a random word from the [API](https://random-w
 ##### Extras:
 - Allow the user to specify word length
 - Display a loading state as new words are fetched
-- Style the app nicely using either CSS or CSS-in-JS
+- Style the app using either CSS or CSS-in-JS
