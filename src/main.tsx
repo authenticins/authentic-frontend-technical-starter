@@ -1,4 +1,4 @@
-import ReactDOM from "react-dom/client";
+import * as ReactDOM from "react-dom/client";
 
 function App() {
   return <h1>Good luck!</h1>
