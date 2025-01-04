@@ -1,0 +1,23 @@
+# IDE
+.vscode/*
+!.vscode/extensions.json
+
+# Debugging
+logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+*.local
+
+# Dependencies
+node_modules
+
+# Build
+dist
+*.tsbuildinfo
+
+# macOS
+.DS_Store
+*.pem

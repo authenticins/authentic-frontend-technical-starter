@@ -1,0 +1,24 @@
+{
+  "scripts": {
+    "dev": "vite --host --port 3000",
+    "build": "rm -rf dist && tsc && vite build",
+    "format": "prettier . --write",
+    "pre-commit": "npm run build && npm run format"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.61",
+    "@types/react-dom": "^18.2.19",
+    "@vitejs/plugin-react": "^4.0.0",
+    "typescript": "5.5.4",
+    "vite": "^4.3.2",
+    "prettier": "^3.3.3"
+  },
+  "prettier": {
+    "printWidth": 125,
+    "trailingComma": "none"
+  }
+}
